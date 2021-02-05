@@ -1,4 +1,4 @@
-# Vidly is an App in the Master React Course of Mosh Hamedani
+# Movie Shop is an is an online movie shopping App in the Master React Course of Mosh Hamedani
 ### Deployed at:
 
 ```
