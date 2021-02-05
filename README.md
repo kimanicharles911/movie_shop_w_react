@@ -2,7 +2,7 @@
 ### Deployed at:
 
 ```
-Coming Soon
+https://onlinemovieshop.netlify.app/
 ```
 
 ## Usage
